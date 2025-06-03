@@ -49,9 +49,6 @@ I am a Software Technology Engineering graduate (degree candidate) from Universi
 * **Interests**
   * I am interested in web development, data analysis, and networking. I love exploring new technologies to expand my knowledge.
  
-* **🌱 I’m currently learning ..**
-  * Java
-  * React.js
 
 * **🎨 Beyond Technology** Besides coding, I enjoy:
 
