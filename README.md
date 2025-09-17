@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Jessica López <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50" </h1>
 
-<img align='right' src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWFrNTJ0Z3N4NWFrNTg5dm83ZDBxa3F2ajlqY3N3ODVkOWQ0bGsyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dWxO36Jzd6bTSt5dIY/giphy.gif" width="230">
+
 
 
 <!-- img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" / -->
