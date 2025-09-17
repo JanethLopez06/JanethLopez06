@@ -1,10 +1,12 @@
-<h1 align="center">Hi , I'm Jessica López <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" </h1>
+<h1 align="center">Hi , I'm Jessica López <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50" </h1>
+
+<img align='right' src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWFrNTJ0Z3N4NWFrNTg5dm83ZDBxa3F2ajlqY3N3ODVkOWQ0bGsyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dWxO36Jzd6bTSt5dIY/giphy.gif" width="230">
 
 
 <!-- img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" / -->
 
 ##
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 Hi there! 👋
 I am a Software Technology Engineering graduate (degree candidate) from Universidad Autónoma de Nuevo León (UANL), Faculty of Mechanical and Electrical Engineering (FIME). I am passionate about technology and software development, always eager to learn and improve my skills.
@@ -58,7 +60,10 @@ I am a Software Technology Engineering graduate (degree candidate) from Universi
   *  🌴 Exploring nature
 
 * **📫 Contact Me**
-Feel free to reach out at: lopezjessicaj97@gmail.com
+<em>Feel free to reach out at: lopezjessicaj97@gmail.com</em>
+
+
+
 ___
 
 
