@@ -60,7 +60,7 @@ I am a Software Technology Engineering graduate (degree candidate) from Universi
   *  🌴 Exploring nature
 
 * **📫 Contact Me**
-<em>You can contact me at: lopezjessicaj97@gmail.com</em>
+  *  You can contact me at: lopezjessicaj97@gmail.com
 
 
 
